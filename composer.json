@@ -1,5 +1,5 @@
 {
-    "name": "mexitek/phpcolors",
+    "name": "owenconti/phpcolors",
     "description": "A series of methods that let you manipulate colors. Just incase you ever need different shades of one color on the fly.",
     "type": "library",
     "keywords": [
